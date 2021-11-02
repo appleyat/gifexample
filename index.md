@@ -1,7 +1,7 @@
 ---
 permalink: index.html
 title: Timothy Appleyard Resume
-theme: 
+theme: jekyll-theme-slate
 ---
 
 # Timothy Appleyard
